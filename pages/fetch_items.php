@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$db = 'medicroccancun_blogcroc';
-$user = 'medicroccancun_diego';
-$pass = 'E.sau010511@11';
+$db = '';
+$user = '';
+$pass = 'E';
 
 $conn = new mysqli($host, $user, $pass, $db);
 
